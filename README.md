@@ -1,8 +1,8 @@
 RepoSync
 ========
-RepoSync is a script that works with APT-MIRROR to create a delta file of updates. 
+RepoSync is a script that works with apt-mirror to create a delta file of updates. 
 
-The primary usage is to update offline ubuntu repositories. The best way to use this software
+The primary usage is to update offline Ubuntu repositories. The best way to use this software
 is to create a daily or weekly cron job to create the delta directories automatically.
 
 #####TODO:
